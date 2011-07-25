@@ -1,0 +1,12 @@
+{ "name": "pop-disqus"
+, "description": "Provides a Disqus helper to Pop sites."
+, "version": "0.1.0"
+, "author": "Alex R. Young <alex@helicoid.net>"
+, "engines": ["node >= 0.4.7"]
+, "main": "./lib/index.js"
+, "repository": {
+    "type" : "git"
+  , "url" : "http://github.com/alexyoung/pop-disqus.git"
+  }
+}
+
